@@ -1,0 +1,3 @@
+# K-Means Clustering Algorithm Implementation
+
+This project involves the development of a K-Means clustering algorithm to classify a set of data points into two distinct groups. Utilizing Python and its data manipulation libraries, the program reads data from text files and iteratively computes cluster assignments based on the proximity to centroid points. The implementation handles the iterative update of centroids and convergence checks to ensure optimal clustering. Final results are visualized using Matplotlib, displaying the clustered data points and centroids, color-coded for clarity. The project also includes model evaluation through the computation of the overall error using the J function, providing a measure of clustering performance.
